@@ -1,0 +1,34 @@
+name: ch3_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ca-certificates=2021.5.30=h5b45459_0
+  - intel-openmp=2021.3.0=h57928b3_3372
+  - joblib=1.0.1=pyhd8ed1ab_0
+  - libblas=3.9.0=11_win64_mkl
+  - libcblas=3.9.0=11_win64_mkl
+  - liblapack=3.9.0=11_win64_mkl
+  - m2w64-gcc-libgfortran=5.3.0=6
+  - m2w64-gcc-libs=5.3.0=7
+  - m2w64-gcc-libs-core=5.3.0=7
+  - m2w64-gmp=6.1.0=2
+  - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+  - mkl=2021.3.0=hb70f87d_564
+  - msys2-conda-epoch=20160418=1
+  - numpy=1.21.2=py38h089cfbf_0
+  - openssl=1.1.1k=h8ffe710_1
+  - pip=21.2.4=pyhd8ed1ab_0
+  - python=3.8.10=h7840368_1_cpython
+  - python_abi=3.8=2_cp38
+  - scikit-learn=0.24.2=py38hb60ee80_1
+  - scipy=1.7.1=py38ha1292f7_0
+  - setuptools=57.4.0=py38haa244fe_0
+  - sqlite=3.36.0=h8ffe710_0
+  - tbb=2021.3.0=h2d74725_0
+  - threadpoolctl=2.2.0=pyh8a188c0_0
+  - ucrt=10.0.20348.0=h57928b3_0
+  - vc=14.2=hb210afc_5
+  - vs2015_runtime=14.29.30037=h902a5da_5
+  - wheel=0.37.0=pyhd8ed1ab_1
+prefix: C:\Users\Dan\anaconda3\envs\ch3_env
