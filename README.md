@@ -46,7 +46,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                            | OS required                        |
 | -------- | ------------------------------------         | -----------------------------------|
-| 1-11	   | Anaconda Distribution (Conda and Naviator)   | Windows, Mac OS X, and Linux (Any) |
+| 1-11	   | Anaconda Distribution (conda and Navigator)   | Windows, Mac OS X, and Linux (Any) |
 | 1-11	   | Scikit-learn, NumPy, and pandas              | Windows, Mac OS X, and Linux (Any) |
 | 1-11	   | SHAP and LIME                                | Windows, Mac OS X, and Linux (Any) |
 
