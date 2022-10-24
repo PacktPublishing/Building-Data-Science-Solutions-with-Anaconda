@@ -62,3 +62,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Dan Meador**
 is an engineering manager at Anaconda leading the conda team and championing open source. He also holds a patent for his work on AI systems and has grown his experience in AI/ML by creating AutoML solutions. He has seen how the power of data can work in everything from startups to Fortune 10 companies.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800568785">https://packt.link/free-ebook/9781800568785 </a> </p>
